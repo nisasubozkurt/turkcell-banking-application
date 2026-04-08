@@ -1,5 +1,0 @@
-com/turkcell/banking/model/Account.class
-com/turkcell/banking/model/Customer.class
-com/turkcell/banking/service/BankService.class
-com/turkcell/banking/repository/BankRepository.class
-com/turkcell/banking/Main.class
